@@ -1,6 +1,6 @@
 # Default ignored files
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
 
 # The following came from https://gist.github.com/8c194635579dbc94aac171472c1495f5.git
 # From https://github.com/github/gitignore/blob/master/Gradle.gitignore
@@ -109,3 +109,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#additional entries:
+*/build/
+/.idea/sonarlint/issuestore/
